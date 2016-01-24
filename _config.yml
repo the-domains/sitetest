@@ -1,0 +1,28 @@
+name: SiteTest
+favicon: null
+layout_spectrum: 0.8462152420543134
+typography_spectrum: 0.7579716769978404
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5319886561483145
+  lightness: 0.12613896746188402
+  saturation: 0.9062963025644422
+  rhythmicContrast: 0.7778813757468015
+purpose: []
